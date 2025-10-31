@@ -21,7 +21,7 @@
 
 - The project creates reports and takes screenshots of failures.
 
-**Unittest_Suit_POM_empik.com**
+**Sample_project_POM_empik.com**
 - A Page Object Model which performs sample end-to-end tests on www.empik.com.
 
 - Demonstrates tests selecting products and adding to the cart.
