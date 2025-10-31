@@ -24,7 +24,7 @@
 **Unittest_Suit_POM_empik.com**
 - A Page Object Model which performs sample end-to-end tests on www.empik.com.
 
-- Demonstrates the use of UNITTEST FRAMEWORK suits - tests selecting products and adding to the cart.
+- Demonstrates tests selecting products and adding to the cart.
 
 - You can easily create new test suits changing input data.
 
